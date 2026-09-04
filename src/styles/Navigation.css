@@ -1,0 +1,19 @@
+.navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 15px;
+    background-color: white;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #008080;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.navigation a:hover {
+    color: #004d4d;
+}
